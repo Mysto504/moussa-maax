@@ -1,0 +1,101 @@
+Insecure Deserialization  (TryHackMe Room Report)
+
+ Overview
+
+-   Platform:TryHackMe\
+-   Room: [Insecure Deserialization](https://tryhackme.com/room/insecuredeserialisation)\
+-   Difficulty: Medium\
+-   Estimated Time: 120 minutes\
+-   Completion: 100%
+
+This room focuses on understanding the process of serialization and
+deserialization, identifying vulnerabilities associated with insecure
+deserialization, and learning exploitation techniques for practical web
+security testing.
+
+
+
+Learning Objectives
+
+1.  Understand Serialization and Deserialization
+    -   What serialization is and how data structures or objects are
+        converted into a storable or transferable format.
+    -   What deserialization is and how the original object is
+        reconstructed.
+2.  Identify Insecure Deserialization Vulnerabilities
+    -   Learn how improper handling of serialized data leads to remote
+        code execution, privilege escalation, or logic manipulation.
+3.  Explore Serialization Formats
+    -   Learn about common formats such as JSON, XML, PHP serialized
+        strings, and binary serialization.
+4.  Hands-on Exploitation
+    -   Exploit insecure deserialization vulnerabilities through object
+        injection and property manipulation.\
+    -   Understand how these attacks can modify application logic and
+        security controls.
+
+
+
+ Room Breakdown
+
+ Task 1: Introduction
+
+-   Overview of serialization and deserialization concepts.
+-   Risks introduced when user-controlled input is deserialized without
+    validation.
+
+ Task 2: Key Concepts
+
+-   Differences between serialization formats.\
+-   Importance of validating and sanitizing deserialized input.
+
+ Task 3: Serialization Formats
+
+-   Explored examples: JSON, XML, PHP, and Python `pickle`.\
+-   Learned how each format can be abused when insecurely implemented.
+
+Task 4: Identification
+
+-   Techniques for detecting insecure deserialization in real-world
+    applications.\
+-   Look for anomalies in cookies, hidden fields, or API responses.
+
+Task 5: Exploitation -- Update Properties
+
+-   Learned to update serialized object properties to change application
+    behavior.\
+-   Demonstrated how attackers may escalate privileges or bypass checks.
+
+Task 6: Exploitation -- Object Injection
+
+-   Practical exploitation using object injection payloads.\
+-   Gained understanding of gadget chains and how deserialization can
+    lead to code execution.
+
+
+
+ Key Takeaways
+
+-   **Never trust serialized data from untrusted sources.
+-   Always validate and sanitize data during deserialization.\
+-   Use safe serialization formats or frameworks that prevent arbitrary
+    code execution.\
+-   In penetration testing, pay attention to cookies, API payloads, and
+    request parameters that may contain serialized data.
+
+
+
+Proof of Completion
+
+![TryHackMe Insecure Deserialization Room
+Completed](./63bd62d1-052b-4d6a-897a-f3798190d322.png)
+
+
+References
+
+-   [OWASP: Deserialization Cheat
+    Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Deserialization_Cheat_Sheet.html)\
+-   [OWASP Top 10 -- Insecure
+    Deserialization](https://owasp.org/www-project-top-ten/2017/A8_2017-Insecure_Deserialization)\
+-   TryHackMe -- [Insecure
+    Deserialization](https://tryhackme.com/room/insecuredeserialisation)
