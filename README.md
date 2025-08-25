@@ -1,9 +1,27 @@
-Hi there, I'm Moussa Moustapha 👋
- Web Security Enthusiast | Bug Bounty Hunter | CTF Player
-Focused on OWASP Top 10 and Application Security.
+🙋‍♂️ Hi, I’m Moussa Moustapha
 
-About Me
+💻 Computer Science Student | Aspiring Cybersecurity & Web Security Specialist | CTF Enthusiast
 
-I'm passionate about identifying vulnerabilities, securing applications, and tackling real-world security challenges.
-With expertise in the OWASP Top 10, I actively participate in bug bounty programs and capture-the-flag competitions, sharpening my offensive and defensive security skills.
-As a multilingual professional fluent in English, French, Arabic, and Somali, I can collaborate seamlessly across diverse teams and regions bridging technical and cultural gaps in global security projects.
+💡 About Me
+I’m a motivated and detail-oriented computer science student with a strong passion for cybersecurity, especially web security. I enjoy exploring vulnerabilities, solving CTF challenges, and learning how to protect systems against real-world threats. 🌍 I’m fluent in Arabic, Somali, English, and French, which allows me to collaborate with diverse teams and access a wide range of resources. 
+
+I hold certifications in Penetration Tester Tools (Macarif) and Networking Defense (Cisco), enhancing my skills in ethical hacking and network security.
+
+📂 Experience & Projects
+
+🕵️‍♂️ Actively participating in CTFs to sharpen my web security and penetration testing skills
+
+🛠 Practicing with penetration testing tools and techniques to build hands-on cybersecurity experience
+
+🛡 Skills & Tools
+
+🔒 Web Security & Vulnerability Assessment
+
+🖥 CTF Challenges & Ethical Hacking
+
+💻 Programming & Scripting Fundamentals
+
+🌐 Multilingual Communication: Arabic, Somali, English, French
+
+🎯 Career Goals
+I aim to specialize in web security and penetration testing, gaining practical experience in ethical hacking and network defense while contributing to secure systems and applications.
