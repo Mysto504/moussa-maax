@@ -1,0 +1,22 @@
+Linux Privilege Escalation Arena – Walkthrough Completion
+I recently completed the Linux Privilege Escalation Arena on TryHackMe. This room provided a hands-on environment to explore and practice privilege escalation techniques in Linux systems.
+Key Details
+•	Completed Tasks: 19
+•	Difficulty: Medium
+•	Learning Mode: Walkthrough
+What I Learned
+•	Identifying misconfigurations in Linux environments
+•	Exploiting common privilege escalation vectors:
+o	SUID binaries
+o	Cron job misconfigurations
+o	PATH variable manipulation
+o	Weak file permissions
+•	Using enumeration tools effectively to discover potential escalation paths
+•	Understanding the difference between theory and real-world exploitation
+Why This Matters
+Privilege escalation is a critical step in penetration testing and red-team operations. Gaining these skills helps in:
+•	Securing Linux environments by understanding how attackers think
+•	Strengthening vulnerability assessment and patching processes
+•	Preparing for professional certifications (e.g., OSCP, eJPT, PNPT)
+Next Steps
+I plan to continue practicing more advanced privilege escalation scenarios and apply this knowledge to real-world environments and CTFs.
