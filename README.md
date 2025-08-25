@@ -3,7 +3,9 @@
 💻 Computer Science Student | Aspiring Cybersecurity & Web Security Specialist | CTF Enthusiast
 
 💡 About Me
-I’m a motivated and detail-oriented computer science student with a strong passion for cybersecurity, especially web security. I enjoy exploring vulnerabilities, solving CTF challenges, and learning how to protect systems against real-world threats. 🌍 I’m fluent in Arabic, Somali, English, and French, which allows me to collaborate with diverse teams and access a wide range of resources. 
+I’m a motivated and detail-oriented computer science student with a strong passion for cybersecurity, especially web security. I enjoy exploring vulnerabilities, solving CTF challenges, and learning how to protect systems against real-world threats. 
+
+🌍 I’m fluent in Arabic, Somali, English, and French, which allows me to collaborate with diverse teams and access a wide range of resources. 
 
 I hold certifications in Penetration Tester Tools (Macarif) and Networking Defense (Cisco), enhancing my skills in ethical hacking and network security.
 
