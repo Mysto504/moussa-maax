@@ -24,4 +24,5 @@ I hold certifications in Penetration Tester Tools (Macarif) and Networking Defen
 🌐 Multilingual Communication: Arabic, Somali, English, French
 
 🎯 Career Goals
+
 I aim to specialize in web security and penetration testing, gaining practical experience in ethical hacking and network defense while contributing to secure systems and applications.
